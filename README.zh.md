@@ -90,18 +90,16 @@ Vue.use(VueCesium)
 
 > 您的支持是我前进的动力，更好的支持开源事业！~
 
-### 微信
+### 微信 | 支付宝
 
-![wechat](https://zouyaoji.top/vue-cesium/statics/assets/images/wechat.png)
-
-### 支付宝
-
-![alipay](https://zouyaoji.top/vue-cesium/statics/assets/images/alipay.png)
+![wechat](https://zouyaoji.top/vue-cesium/statics/assets/images/wechat.png) ![alipay](https://zouyaoji.top/vue-cesium/statics/assets/images/alipay.png)
 
 ## QQ 交流群
 
 [点击链接加入群聊【Cesium 开心农场(16533444)】](https://jq.qq.com/?_wv=1027&k=5BCrKOi)
 
+![开心农场](https://zouyaoji.top/vue-cesium/statics/assets/images/开心农场.png) ![数字视觉](https://zouyaoji.top/vue-cesium/statics/assets/images/数字视觉.png)
+
 ## 参考
 
-学习借鉴了 2 个 vue 组件项目[vue-baidu-map](https://github.com/Dafrok/vue-baidu-map)和[vuelayers](https://github.com/ghettovoice/vuelayers/)。
+学习借鉴了项目[vue-baidu-map](https://github.com/Dafrok/vue-baidu-map)和[vuelayers](https://github.com/ghettovoice/vuelayers/)，表示感谢。
